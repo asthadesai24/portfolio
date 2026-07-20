@@ -70,9 +70,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const phrases = [
             'Cloud Engineer',
             'Cybersecurity Enthusiast',
-            'AI Integrator',
-            'AWS Certified Practitioner',
-            'NCC Sergeant & Leader'
+            'AWS Academy Graduate',
+            'AWS Academy AI Practitioner',
+            'NCC Sergeant & Leader',
+            'National-Level Athlete'
         ];
         let pi = 0, ci = 0, deleting = false;
 
